@@ -1,0 +1,104 @@
+body {
+    font-size:18px; 
+    font-family: 'Lily Script One', cursive;
+    color:#ffffff; 
+    background:#020000; 
+}
+p{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.row,.col{
+    background-color:black;
+    color:white;
+    padding:3px;
+    margin:1px;
+    border:1px solid white;
+}
+.img{
+    float:left;
+    margin:3px 3px 3px 0;
+    border-radius:10%;
+}
+.images{
+    margin:80px 0px 0px 0px;
+}
+.navi{
+    float:right;
+}
+.column{
+    padding:60px;
+}
+#menu{
+    font-size:25px;
+    
+}
+#menu2{
+    font-size: 35px;
+}
+#disabled{
+    font-size: 18px;
+}
+#column{
+    border:none;
+}
+#tamcolumn{
+    text-align:center;
+    padding-top:150px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.hand{
+    width:80px;
+    height:20px;
+    
+}
+.menufont{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.textclub{
+    color:red;
+}
+section.parallax {
+    height: 400px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+    .forparallax{
+        color:red;
+        text-align: end;
+        padding:150px 50px 0 0;
+    }
+    .parallax-1 {
+    background-image: url("./img/bg.jpg");
+    }
+    .parallax-2{
+        background-image: url("./img/bg2.jpg");
+    }
+    .parallax-4{
+        background-image: url("./img/bg2.jpg");
+    }
+    .parallax-5{
+        background-image: url("./img/bg3.jpg");
+    }
+    .parallax-6{
+        background-image: url("./img/bg4.jpg");
+    }
+    .parallax-3{
+        background-image:url("./img/th.jpg");
+    }
+    .colorfont{
+        color:black;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .forkontakt{
+        text-align:center;
+        color:red;
+    }
+
+    
+
+    
+    
+   
+    
